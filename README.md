@@ -1,4 +1,5 @@
-Refer to the colab notebook yolo_ALPR.ipynb for runing the code in google colab
+Refer to the colab notebook yolo_ALPR.ipynb for runing the code in google colab.
+For runing the code locally, follow the steps given below.
 ##### **Step 1**
 
 >  **Creating a workspace.**
@@ -441,13 +442,3 @@ The output-
 
 ![]()
 
->  **Final comment**
-
-Thank you guys for reading the blog, hope this project is useful for some of you aspiring to do projects on OCR, image processing, Machine Learning, IoT.
-
-And if you have any doubts regarding this project, please leave a comment in the response section.
-
-The full project is available on my Github:
-[https://github.com/SarthakV7/AI-based-indian-license-plate-detection](https://github.com/SarthakV7/AI-based-indian-license-plate-detection)
-
-Find me on LinkedIn: [www.linkedin.com/in/sarthak-vajpayee](http://www.linkedin.com/in/sarthak-vajpayee)
