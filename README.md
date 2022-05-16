@@ -1,4 +1,4 @@
-
+Refer to the colab notebook yolo_ALPR.ipynb for runing the code in google colab
 ##### **Step 1**
 
 >  **Creating a workspace.**
